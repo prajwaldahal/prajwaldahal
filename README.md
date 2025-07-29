@@ -11,11 +11,11 @@
 
 ## 👨‍🎓 About Me
 
-- ✅ **Bachelor in Computer Applications (BCA)** graduate  
+- 🎓**Bachelor in Computer Applications (BCA)** graduated 
 - 💻 Passionate about building **mobile applications** that offer seamless user experiences  
 - 📊 Enthusiastic about working with **data** — analyzing, tweaking, and transforming it into actionable insights  
 - 🌱 Skilled in multiple languages and technologies, including **Flutter, Python, Java, C#, C**, and many more  
-- 🧪 Explore my academic knowledge here: 👉 [BCA Labs](https://github.com/bca-labs)  
+- 🎓 Here’s where I share my academic work and experiments: 👉 [BCA Labs](https://github.com/bca-labs)  
 - 📫 Reach out to me at **prajwaldahal072@gmail.com**
 
 ---
