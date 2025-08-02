@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajwal Dahal</h1>
+
 <p align="center">
   📱 Mobile App Developer | 📊 Data Enthusiast
 </p>
@@ -11,25 +12,34 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓**Bachelor in Computer Applications (BCA)** graduated 
-- 💻 Passionate about building **mobile applications** that offer seamless user experiences  
-- 📊 Enthusiastic about working with **data** — analyzing, tweaking, and transforming it into actionable insights  
-- 🌱 Skilled in multiple languages and technologies, including **Flutter, Python, Java, C#, C**, and many more  
-- 🎓 Here’s where I share my academic work and experiments: 👉 [BCA Labs](https://github.com/bca-labs)  
-- 📫 Reach out to me at **prajwaldahal072@gmail.com**
+- 🎓 **Bachelor's in Computer Applications (BCA)** graduate  
+- 💻 Passionate about crafting **mobile applications** with smooth user experiences  
+- 📊 Keen on **data analysis** — transforming raw data into meaningful insights  
+- 🌱 Skilled in various languages and technologies: **Flutter, Python, Java, C#, C**, and more  
+- 🧪 I share academic experiments and lab works at 👉 [BCA Labs](https://github.com/bca-labs)  
+- 📫 Reach me at **prajwaldahal072@gmail.com**
 
 ---
 
 ## 🚀 Tech Stack
 
+### 🧑‍💻 Languages & Frameworks
+
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Seaborn-3C3C3C?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+### 🛠 Tools & Platforms
+
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
@@ -44,15 +54,15 @@
 
 ---
 
-## 🔥 Contribution & Streaks
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prajwaldahal&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=prajwaldahal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prajwaldahal&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
@@ -63,11 +73,11 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:prajwaldahal072@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:prajwaldahal072@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/prajwal-dahal/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/prajwal-dahal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
